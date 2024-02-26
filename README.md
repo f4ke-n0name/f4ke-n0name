@@ -6,4 +6,4 @@
 
   **Currently I'm working on/learning:**
 - 🔭 I’m currently learning Golang
-- I'm currenly working on ML project
+- ⚙️ I'm currenly working on ML project
