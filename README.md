@@ -45,6 +45,8 @@
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f4ke-n0name&hide=html&langs_count=10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=antoha124&show_icons=true&theme=radical)
 <!--
 
 Here are some ideas to get you started:
